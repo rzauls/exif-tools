@@ -1,0 +1,11 @@
+[project]
+name = "exif-sorter-2"
+version = "0.1.0"
+description = "EXIF file management helpers"
+readme = ""
+requires-python = ">=3.12"
+dependencies = [
+    "hachoir==3.3.0",
+    "piexif==1.1.3",
+    "pillow==11.1.0",
+]
